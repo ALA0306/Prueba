@@ -3,4 +3,7 @@ Hola mundo
 clase de git
 
 creacion de ramas 
-Soy ing industrial 
+
+Soy de venezuela
+
+14 de julio
